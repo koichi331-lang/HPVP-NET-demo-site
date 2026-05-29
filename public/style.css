@@ -132,6 +132,13 @@ html, body {
   text-decoration: underline;
 }
 
+.operator {
+  margin: 24px 0 0;
+  text-align: center;
+  color: #555;
+  font-size: 13px;
+}
+
 /* ---------- ②③ マップ画面 ---------- */
 #app {
   display: flex;
