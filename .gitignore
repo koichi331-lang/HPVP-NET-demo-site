@@ -9,3 +9,7 @@
 # OS が生成するファイル
 Thumbs.db
 .DS_Store
+
+# Node / wrangler
+node_modules/
+.wrangler/

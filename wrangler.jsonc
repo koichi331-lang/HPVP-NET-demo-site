@@ -1,0 +1,13 @@
+{
+  // Cloudflare Worker の設定ファイル（静的サイト + Basic認証）
+  "name": "hpvp-net-demo-site",
+  "main": "worker.js",
+  "compatibility_date": "2025-04-01",
+  "assets": {
+    // public/ 配下を静的ファイルとして配信
+    "directory": "./public",
+    "binding": "ASSETS",
+    // 全リクエストでまず worker.js（認証）を通す
+    "run_worker_first": true
+  }
+}
