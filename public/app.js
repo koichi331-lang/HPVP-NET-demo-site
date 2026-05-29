@@ -248,7 +248,7 @@ function initMap() {
   // type → 円内に表示するラベル（h: ヘリポート, ap: 空港, v: バーティポート）
   function labelForType(type) {
     if (type === "ap") return "AP";
-    if (type === "v") return "VP";
+    if (type === "v") return "V";
     return "H";
   }
 
