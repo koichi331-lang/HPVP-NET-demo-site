@@ -5238,6 +5238,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    135.3771433,
+                    34.65564947
+                ]
+            },
+            "properties": {
+                "name": "EXPOバーティポート",
+                "prefecture": "osaka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "10",
+                "type": "v",
+                "color": "blue",
+                "iconKey": "v_blue",
+                "owner": "オリックス",
+                "address": "大阪府大阪市此花区夢洲中１丁目",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     135.005778,
                     34.5615
                 ]

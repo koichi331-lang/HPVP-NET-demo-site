@@ -245,9 +245,10 @@ function initMap() {
       .replace(/"/g, "&quot;");
   }
 
-  // type → 円内に表示するラベル（h: ヘリポート, ap: 空港）
+  // type → 円内に表示するラベル（h: ヘリポート, ap: 空港, v: バーティポート）
   function labelForType(type) {
     if (type === "ap") return "AP";
+    if (type === "v") return "VP";
     return "H";
   }
 
