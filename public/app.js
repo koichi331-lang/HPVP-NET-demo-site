@@ -303,9 +303,9 @@ function initMap() {
       .then((data) => {
         const features = data.features || [];
         const numH = features.filter((f) => f.properties.type === "h").length;
-        const numAp = features.filter((f) => f.properties.type === "ap").length;
+        const numVp = features.filter((f) => f.properties.type === "v").length;
         document.getElementById("count").textContent =
-          `ヘリポート ${numH} 件 / 空港 ${numAp} 件`;
+          `ヘリポート ${numH} か所 / バーティポート ${numVp} か所`;
 
         // type・color の組み合わせごとにアイコンを登録
         registerIcons(features);
