@@ -5,7 +5,7 @@
 // ① デモ用のログイン情報（クライアント側の簡易認証）
 //    本番運用ではサーバー側認証に置き換えてください。
 const CREDENTIALS = {
-  admin: "helipad",
+  demo: "demopass",
 };
 
 const SESSION_KEY = "heliport_logged_in";
