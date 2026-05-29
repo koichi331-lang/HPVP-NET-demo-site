@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ヘリポートマップ</title>
+
+  <!-- MapLibre GL JS -->
+  <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ① ログイン画面 -->
+  <div id="login-screen">
+    <form id="login-form" autocomplete="off">
+      <div class="login-header">
+        <img src="login_icon.png" alt="HP/VP-NET ロゴ" class="login-logo" />
+        <div class="login-titles">
+          <h1>HP/VP－NET</h1>
+          <p class="subtitle">ヘリポート＆バーティポート<br />データベースwebサイト</p>
+        </div>
+      </div>
+
+      <p class="demo-label">DEMO-site</p>
+
+      <input type="text" id="username" name="username" placeholder="アカウントID" required autocomplete="username" />
+
+      <input type="password" id="password" name="password" placeholder="パスワード" required autocomplete="current-password" />
+
+      <p id="login-error" class="error" hidden>IDまたはパスワードが正しくありません。</p>
+
+      <button type="submit">ログイン</button>
+
+      <a href="#" id="forgot-password" class="forgot-link">パスワードをお忘れの方はこちら</a>
+    </form>
+  </div>
+
+  <!-- ②③ マップ画面 -->
+  <div id="app" hidden>
+    <header id="topbar">
+      <span class="title">🚁 ヘリポートマップ</span>
+      <span id="count" class="count"></span>
+      <button id="logout-btn" type="button">ログアウト</button>
+    </header>
+    <div id="map">
+      <div id="basemap-switcher">
+        <button type="button" data-base="osm" class="active">地図</button>
+        <button type="button" data-base="satellite">衛星画像</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ③ 詳細モーダル（画面中央） -->
+  <div id="detail-modal" class="modal-overlay" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <div class="modal-header">
+        <span id="modal-title"></span>
+        <button id="modal-close" class="modal-close" type="button" aria-label="閉じる">×</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+      <div class="modal-actions">
+        <div class="modal-actions-row">
+          <button class="btn-secondary" type="button" data-action="overview">概要図確認</button>
+          <button class="btn-secondary" type="button" data-action="contact">問合せ</button>
+        </div>
+        <button class="btn-primary" type="button" data-action="apply">利&thinsp;用&thinsp;申&thinsp;請</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

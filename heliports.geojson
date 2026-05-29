@@ -1,0 +1,6101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.758918,
+                    45.10046745
+                ]
+            },
+            "properties": {
+                "name": "豊富HP",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "豊富町",
+                "address": "北海道天塩郡豊富町字西豊富",
+                "latText": "N 45°06′01.7″",
+                "lonText": "E 141°45′32.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166058,
+                    37.91290377
+                ]
+            },
+            "properties": {
+                "name": "米沢HP",
+                "prefecture": "yamagata",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "米沢市",
+                "address": "山形県米沢市八幡原2-444-9",
+                "latText": "N 37°54′46.5″",
+                "lonText": "E 140°09′57.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0060131,
+                    36.55989011
+                ]
+            },
+            "properties": {
+                "name": "栃木HP",
+                "prefecture": "tochigi",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "栃木県",
+                "address": "栃木県芳賀郡芳賀町芳賀台128-1",
+                "latText": "N 36°33′35.6″",
+                "lonText": "E 140°00′21.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9935439,
+                    36.32495647
+                ]
+            },
+            "properties": {
+                "name": "高崎HP",
+                "prefecture": "gunma",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "高崎市",
+                "address": "群馬県高崎市八千代町1-7-1和田橋交通公園内",
+                "latText": "N 36°19′29.8″",
+                "lonText": "E 138°59′36.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.839465,
+                    35.63590755
+                ]
+            },
+            "properties": {
+                "name": "東京HP",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "東京都",
+                "address": "東京都江東区新木場４丁目",
+                "latText": "N 35°38′09.3″",
+                "lonText": "E 139°50′22.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4087036,
+                    35.02438809
+                ]
+            },
+            "properties": {
+                "name": "静岡HP",
+                "prefecture": "shizuoka",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "静岡市",
+                "address": "静岡県静岡市葵区諏訪8-10",
+                "latText": "N 35°01′27.8″",
+                "lonText": "E 138°24′31.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7855024,
+                    35.49033548
+                ]
+            },
+            "properties": {
+                "name": "若狭HP",
+                "prefecture": "fukui",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "福井県",
+                "address": "福井県小浜市高塚66-20",
+                "latText": "N 35°29′25.2″",
+                "lonText": "E 135°47′07.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5557676,
+                    34.67272747
+                ]
+            },
+            "properties": {
+                "name": "津市伊勢湾HP",
+                "prefecture": "mie",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "津市",
+                "address": "三重県津市雲出鋼管町2-2",
+                "latText": "N 34°40′21.8″",
+                "lonText": "E 136°33′20.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8845638,
+                    34.65619972
+                ]
+            },
+            "properties": {
+                "name": "奈良県HP",
+                "prefecture": "nara",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "奈良県",
+                "address": "奈良県奈良市矢田原町2446",
+                "latText": "N 34°39′22.3″",
+                "lonText": "E 135°53′04.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.4176298,
+                    34.37145656
+                ]
+            },
+            "properties": {
+                "name": "広島HP",
+                "prefecture": "hiroshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "広島市",
+                "address": "広島県広島市西区観音新町4-10",
+                "latText": "N 34°22′17.2″",
+                "lonText": "E 132°25′03.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3576574,
+                    31.26825409
+                ]
+            },
+            "properties": {
+                "name": "枕崎HP",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "",
+                "type": "h",
+                "color": "gray",
+                "iconKey": "h_gray",
+                "owner": "枕崎市",
+                "address": "鹿児島県枕崎市あけぼの町264",
+                "latText": "N 31°16′05.7″",
+                "lonText": "E 130°21′27.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.386389,
+                    35.764722
+                ]
+            },
+            "properties": {
+                "name": "成田国際空港",
+                "prefecture": "chiba",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "41",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "成田国際空港㈱",
+                "address": "千葉県成田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.805278,
+                    34.858333
+                ]
+            },
+            "properties": {
+                "name": "中部国際空港",
+                "prefecture": "aichi",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "4",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "中部国際空港㈱",
+                "address": "愛知県常滑市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.244167,
+                    34.434722
+                ]
+            },
+            "properties": {
+                "name": "関西国際空港",
+                "prefecture": "osaka",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "8",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "関西エアポート㈱",
+                "address": "大阪府泉佐野市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.438222,
+                    34.7855
+                ]
+            },
+            "properties": {
+                "name": "大阪国際空港",
+                "prefecture": "osaka",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "15",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "関西エアポート㈱",
+                "address": "大阪府豊中市・池田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.781111,
+                    35.553333
+                ]
+            },
+            "properties": {
+                "name": "東京国際空港",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "6",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "東京都大田区",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.692283,
+                    42.7752
+                ]
+            },
+            "properties": {
+                "name": "新千歳空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "25",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "北海道千歳市・苗穂町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.917,
+                    38.139722
+                ]
+            },
+            "properties": {
+                "name": "仙台空港",
+                "prefecture": "miyagi",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "2",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "宮城県名取市・岩沼市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.121111,
+                    37.955833
+                ]
+            },
+            "properties": {
+                "name": "新潟空港",
+                "prefecture": "niigata",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "3",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "新潟県新潟市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.800833,
+                    45.404167
+                ]
+            },
+            "properties": {
+                "name": "稚内空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "10",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "北海道稚内市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.192833,
+                    43.041
+                ]
+            },
+            "properties": {
+                "name": "釧路空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "30",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "北海道釧路市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.821944,
+                    41.77
+                ]
+            },
+            "properties": {
+                "name": "函館空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "10",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "北海道函館市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.919444,
+                    34.436111
+                ]
+            },
+            "properties": {
+                "name": "広島空港",
+                "prefecture": "hiroshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "331",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "広島県三原市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.015556,
+                    34.214167
+                ]
+            },
+            "properties": {
+                "name": "高松空港",
+                "prefecture": "kagawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "185",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "香川県高松市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.699722,
+                    33.827222
+                ]
+            },
+            "properties": {
+                "name": "松山空港",
+                "prefecture": "ehime",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "8",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "愛媛県松山市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.669444,
+                    33.546111
+                ]
+            },
+            "properties": {
+                "name": "高知空港",
+                "prefecture": "kochi",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "13",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "高知県南国市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.034722,
+                    33.845833
+                ]
+            },
+            "properties": {
+                "name": "北九州空港",
+                "prefecture": "fukuoka",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "6",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "福岡県北九州市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.913611,
+                    32.916944
+                ]
+            },
+            "properties": {
+                "name": "長崎空港",
+                "prefecture": "nagasaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "4",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "長崎県大村市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.855,
+                    32.837222
+                ]
+            },
+            "properties": {
+                "name": "熊本空港",
+                "prefecture": "kumamoto",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "195",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "熊本県上益城郡益城町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.737222,
+                    33.479444
+                ]
+            },
+            "properties": {
+                "name": "大分空港",
+                "prefecture": "oita",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "6",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "大分県国東市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.448611,
+                    31.877222
+                ]
+            },
+            "properties": {
+                "name": "宮崎空港",
+                "prefecture": "miyazaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "6",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "宮崎県宮崎市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.719167,
+                    31.803333
+                ]
+            },
+            "properties": {
+                "name": "鹿児島空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "272",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "鹿児島県霧島市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.645833,
+                    26.195833
+                ]
+            },
+            "properties": {
+                "name": "那覇空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "3",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "沖縄県那覇市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.4475,
+                    43.670833
+                ]
+            },
+            "properties": {
+                "name": "旭川空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "210",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "断川市",
+                "address": "北海道旭川市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.217222,
+                    42.733333
+                ]
+            },
+            "properties": {
+                "name": "帯広空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "153",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "帯広市",
+                "address": "北海道帯広市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.218611,
+                    39.615556
+                ]
+            },
+            "properties": {
+                "name": "秋田空港",
+                "prefecture": "akita",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "95",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "秋田県",
+                "address": "秋田県秋田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.371389,
+                    38.411944
+                ]
+            },
+            "properties": {
+                "name": "山形空港",
+                "prefecture": "yamagata",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "109",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "山形県",
+                "address": "山形県東根市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.279167,
+                    33.93
+                ]
+            },
+            "properties": {
+                "name": "山口宇部空港",
+                "prefecture": "yamaguchi",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "7",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "山口県",
+                "address": "山口県宇部市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.381667,
+                    43.116944
+                ]
+            },
+            "properties": {
+                "name": "札幌丘珠空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "26",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "防衛省陸上自衛隊",
+                "address": "北海道札幌市東区",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.414722,
+                    36.181111
+                ]
+            },
+            "properties": {
+                "name": "茨城空港",
+                "prefecture": "ibaraki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "32",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "防衛省航空自衛隊",
+                "address": "茨城県小美玉市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.406944,
+                    36.394444
+                ]
+            },
+            "properties": {
+                "name": "小松空港",
+                "prefecture": "ishikawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "11",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "防衛省航空自衛隊",
+                "address": "石川県小松市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.236389,
+                    35.4925
+                ]
+            },
+            "properties": {
+                "name": "米子空港",
+                "prefecture": "tottori",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "6",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "防衛省航空自衛隊",
+                "address": "鳥取県境港市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.606667,
+                    34.132778
+                ]
+            },
+            "properties": {
+                "name": "徳島空港",
+                "prefecture": "tokushima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "8",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "防衛省海上自衛隊",
+                "address": "徳島県松茂市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.186389,
+                    45.242
+                ]
+            },
+            "properties": {
+                "name": "利尻空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "16",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "北海道",
+                "address": "北海道利尻郡利尻町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.432778,
+                    42.071667
+                ]
+            },
+            "properties": {
+                "name": "奥尻空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "25",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "北海道",
+                "address": "北海道奨尻郡奥尻町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.96,
+                    43.5775
+                ]
+            },
+            "properties": {
+                "name": "中標津空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "71",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "北海道",
+                "address": "北海道野付牛郡中標津町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.404167,
+                    44.303889
+                ]
+            },
+            "properties": {
+                "name": "紋別空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "124",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "北海道",
+                "address": "北海道紋別市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.164167,
+                    43.880556
+                ]
+            },
+            "properties": {
+                "name": "女満別空港",
+                "prefecture": "hokkaido",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "137",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "北海道",
+                "address": "北海道網走市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.690833,
+                    40.733333
+                ]
+            },
+            "properties": {
+                "name": "青森空港",
+                "prefecture": "aomori",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "198",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "青森県",
+                "address": "青森県青森市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.134722,
+                    39.428611
+                ]
+            },
+            "properties": {
+                "name": "花巻空港",
+                "prefecture": "iwate",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "90",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "岩手県",
+                "address": "岩手県花巻市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.371667,
+                    40.191944
+                ]
+            },
+            "properties": {
+                "name": "大館能代空港",
+                "prefecture": "akita",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "89",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "秋田県",
+                "address": "秋田県北秋田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.787222,
+                    38.8125
+                ]
+            },
+            "properties": {
+                "name": "庄内空港",
+                "prefecture": "yamagata",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "10",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "山形県",
+                "address": "山形県酒田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.430833,
+                    37.2275
+                ]
+            },
+            "properties": {
+                "name": "福島空港",
+                "prefecture": "fukushima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "372",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "福島県",
+                "address": "福島県須賀川市・玉川村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.36,
+                    34.782222
+                ]
+            },
+            "properties": {
+                "name": "大島空港",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "39",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "東京都",
+                "address": "東京都大島町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.268611,
+                    34.367778
+                ]
+            },
+            "properties": {
+                "name": "新島空港",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "39",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "東京都",
+                "address": "東京都新島村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.135556,
+                    34.190278
+                ]
+            },
+            "properties": {
+                "name": "神津島空港",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "78",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "東京都",
+                "address": "東京都神津島村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.560278,
+                    34.073333
+                ]
+            },
+            "properties": {
+                "name": "三宅島空港",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "67",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "東京都",
+                "address": "東京都三宅村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.785833,
+                    33.115
+                ]
+            },
+            "properties": {
+                "name": "八丈島空港",
+                "prefecture": "tokyo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "91",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "東京都",
+                "address": "東京都八丈町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.413889,
+                    38.060278
+                ]
+            },
+            "properties": {
+                "name": "佐渡空港",
+                "prefecture": "niigata",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "27",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "新潟県",
+                "address": "新潟県佐渡市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.1875,
+                    36.648333
+                ]
+            },
+            "properties": {
+                "name": "富山空港",
+                "prefecture": "toyama",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "9",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "富山県",
+                "address": "富山県富山市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.962,
+                    37.293056
+                ]
+            },
+            "properties": {
+                "name": "能登空港",
+                "prefecture": "ishikawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "218",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "石川県",
+                "address": "石川県輪島市・穴水町・能登町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.223889,
+                    36.142778
+                ]
+            },
+            "properties": {
+                "name": "福井空港",
+                "prefecture": "fukui",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "6",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "福井県",
+                "address": "福井県坂井市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.922778,
+                    36.166944
+                ]
+            },
+            "properties": {
+                "name": "松本空港",
+                "prefecture": "nagano",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "658",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "長野県",
+                "address": "長野県松本市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1875,
+                    34.796111
+                ]
+            },
+            "properties": {
+                "name": "静岡空港",
+                "prefecture": "shizuoka",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "132",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "静岡県",
+                "address": "静岡県牌町市・島田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.224,
+                    34.6328
+                ]
+            },
+            "properties": {
+                "name": "神戸空港",
+                "prefecture": "hyogo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "3",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "神戸市",
+                "address": "兵庫県神戸市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.364,
+                    33.6622
+                ]
+            },
+            "properties": {
+                "name": "南紀白浜空港",
+                "prefecture": "wakayama",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "96",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "和歌山県",
+                "address": "和歌山県白浜町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.166667,
+                    35.529722
+                ]
+            },
+            "properties": {
+                "name": "鳥取空港",
+                "prefecture": "tottori",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "7",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鳥取県",
+                "address": "鳥取県鳥取市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.323611,
+                    36.181111
+                ]
+            },
+            "properties": {
+                "name": "隠岐空港",
+                "prefecture": "shimane",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "27",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "島根県",
+                "address": "島根県隠岐の島町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.89,
+                    35.413611
+                ]
+            },
+            "properties": {
+                "name": "出雲空港",
+                "prefecture": "shimane",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "5",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "島根県",
+                "address": "島根県出雲市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.789722,
+                    34.676389
+                ]
+            },
+            "properties": {
+                "name": "石見空港",
+                "prefecture": "shimane",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "36",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "島根県",
+                "address": "島根県益田市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.855278,
+                    34.756944
+                ]
+            },
+            "properties": {
+                "name": "岡山空港",
+                "prefecture": "okayama",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "246",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "岡山県",
+                "address": "岡山県岡山市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.302222,
+                    33.149722
+                ]
+            },
+            "properties": {
+                "name": "佐賀空港",
+                "prefecture": "saga",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "2",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "佐賀県",
+                "address": "佐賀県佐賀市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.330833,
+                    34.284722
+                ]
+            },
+            "properties": {
+                "name": "対馬空港",
+                "prefecture": "nagasaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "70",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "長崎県",
+                "address": "長崎県対馬市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.085556,
+                    33.191389
+                ]
+            },
+            "properties": {
+                "name": "小値賀空港",
+                "prefecture": "nagasaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "13",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "長崎県",
+                "address": "長崎県北松浦郡小値賀町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.833056,
+                    32.666667
+                ]
+            },
+            "properties": {
+                "name": "福江空港",
+                "prefecture": "nagasaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "28",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "長崎県",
+                "address": "長崎県五島市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.191389,
+                    32.984167
+                ]
+            },
+            "properties": {
+                "name": "上五島空港",
+                "prefecture": "nagasaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "50",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "長崎県",
+                "address": "長崎県南松浦郡新上五島町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.785556,
+                    33.749167
+                ]
+            },
+            "properties": {
+                "name": "壱岐空港",
+                "prefecture": "nagasaki",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "13",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "長崎県",
+                "address": "長崎県壱岐市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.991389,
+                    30.605278
+                ]
+            },
+            "properties": {
+                "name": "種子島空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "75",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県西之表市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.658889,
+                    30.385556
+                ]
+            },
+            "properties": {
+                "name": "屋久島空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "38",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県屋久島町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.7125,
+                    28.430556
+                ]
+            },
+            "properties": {
+                "name": "奈美空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "9",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県奈美市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.927778,
+                    28.321389
+                ]
+            },
+            "properties": {
+                "name": "喜界空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "5",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県喜界町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.881389,
+                    27.836389
+                ]
+            },
+            "properties": {
+                "name": "徳之島空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "16",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県徳之島町・天城町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.701389,
+                    27.431667
+                ]
+            },
+            "properties": {
+                "name": "沖永良部空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "30",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県和泊町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.401944,
+                    27.044167
+                ]
+            },
+            "properties": {
+                "name": "与論空港",
+                "prefecture": "kagoshima",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "15",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "鹿児島県",
+                "address": "鹿児島県与論町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.240833,
+                    26.592222
+                ]
+            },
+            "properties": {
+                "name": "粟国空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "13",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県粟国村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.713889,
+                    26.363611
+                ]
+            },
+            "properties": {
+                "name": "久米島空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "7",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県久米島町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.155,
+                    26.168333
+                ]
+            },
+            "properties": {
+                "name": "慶良間空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "11",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県座間味村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.263889,
+                    25.846667
+                ]
+            },
+            "properties": {
+                "name": "南大東空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "23",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県南大東村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.326944,
+                    25.944722
+                ]
+            },
+            "properties": {
+                "name": "北大東空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "21",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県北大東村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.785,
+                    26.722222
+                ]
+            },
+            "properties": {
+                "name": "伊江空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "47",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県伊江村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.295,
+                    24.782778
+                ]
+            },
+            "properties": {
+                "name": "宮古空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "47",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県宮古島市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.144722,
+                    24.826667
+                ]
+            },
+            "properties": {
+                "name": "下地島空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "18",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県宮古島市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.675278,
+                    24.654444
+                ]
+            },
+            "properties": {
+                "name": "多良間空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "9",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県多良間村",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.245,
+                    24.396389
+                ]
+            },
+            "properties": {
+                "name": "新石垣空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "31",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県石垣市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.803056,
+                    24.058889
+                ]
+            },
+            "properties": {
+                "name": "波照間空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "13",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県站原町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.978889,
+                    24.466944
+                ]
+            },
+            "properties": {
+                "name": "与那国空港",
+                "prefecture": "okinawa",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "15",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "沖縄県",
+                "address": "沖縄県与那国町",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.924167,
+                    35.255
+                ]
+            },
+            "properties": {
+                "name": "名古屋空港",
+                "prefecture": "aichi",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "16",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "愛知県",
+                "address": "愛知県西春日井市・豊山町・小牧市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.787,
+                    35.5128
+                ]
+            },
+            "properties": {
+                "name": "但馬空港",
+                "prefecture": "hyogo",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "178",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "兵庫県",
+                "address": "兵庫県豊岡市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.910833,
+                    34.598056
+                ]
+            },
+            "properties": {
+                "name": "岡南空港",
+                "prefecture": "okayama",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "2",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "岡山県",
+                "address": "岡山県岡山市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.158889,
+                    32.482222
+                ]
+            },
+            "properties": {
+                "name": "天草空港",
+                "prefecture": "kumamoto",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "31",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "天草エアライン?",
+                "address": "熊本県天草市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.490833,
+                    32.965
+                ]
+            },
+            "properties": {
+                "name": "大分県央飛行場",
+                "prefecture": "oita",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "52",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "大分県",
+                "address": "大分県豊後大野市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.601944,
+                    34.595556
+                ]
+            },
+            "properties": {
+                "name": "八尾空港",
+                "prefecture": "osaka",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "13",
+                "type": "ap",
+                "color": "gray",
+                "iconKey": "ap_gray",
+                "owner": "国土交通省",
+                "address": "大阪府八尾市",
+                "latText": "",
+                "lonText": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.003278,
+                    44.072583
+                ]
+            },
+            "properties": {
+                "name": "ウトロ香川",
+                "prefecture": "hokkaido",
+                "sizeL": "14",
+                "sizeW": "11",
+                "elev": "58",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "KIKI知床ナチュラルリゾート",
+                "address": "北海道斜里郡斜里町",
+                "latText": "N 44°04′21.3″",
+                "lonText": "E 145°00′11.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.805,
+                    43.461389
+                ]
+            },
+            "properties": {
+                "name": "鶴沼ワイナリー",
+                "prefecture": "hokkaido",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "94",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱鶴沼ワイナリー",
+                "address": "北海道樺戸郡浦臼町於札内428-17",
+                "latText": "N 43°27′41.0″",
+                "lonText": "E 141°48′18.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.768083,
+                    42.682
+                ]
+            },
+            "properties": {
+                "name": "苫東",
+                "prefecture": "hokkaido",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "16.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱苫東",
+                "address": "北海道苫小牧市字柏原23-3",
+                "latText": "N 42°40′55.2″",
+                "lonText": "E 141°46′05.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.626083,
+                    42.674389
+                ]
+            },
+            "properties": {
+                "name": "豊頃大津",
+                "prefecture": "hokkaido",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "3.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱ELEZO",
+                "address": "北海道中川郡豊頃町大津125",
+                "latText": "N 42°40′27.8″",
+                "lonText": "E 143°37′33.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.735278,
+                    42.8565
+                ]
+            },
+            "properties": {
+                "name": "ニセコグリーンファーム",
+                "prefecture": "hokkaido",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "222",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱NISEKO AVIATION",
+                "address": "北海道虻田郡倶知安町字比羅夫258-3",
+                "latText": "N 42°51′23.4″",
+                "lonText": "E 140°44′07.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.017,
+                    43.16
+                ]
+            },
+            "properties": {
+                "name": "北海道ワイン小樽",
+                "prefecture": "hokkaido",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "304",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "北海道ワイン㈱",
+                "address": "北海道小樽市朝里川温泉1-130",
+                "latText": "N 43°09′36.0″",
+                "lonText": "E 141°01′01.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.668194,
+                    42.906694
+                ]
+            },
+            "properties": {
+                "name": "ワイス",
+                "prefecture": "hokkaido",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "439",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "日本ハーモニーリゾート㈱",
+                "address": "北海道虻田郡倶知安町花園96",
+                "latText": "N 42°54′24.1″",
+                "lonText": "E 140°40′05.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.019278,
+                    39.749
+                ]
+            },
+            "properties": {
+                "name": "小岩井農場",
+                "prefecture": "iwate",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "303",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "小岩井農牧株式会社",
+                "address": "岩手県岩手郡雫石町丸谷地36-1",
+                "latText": "N 39°44′56.4″",
+                "lonText": "E 141°01′09.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8245,
+                    38.244278
+                ]
+            },
+            "properties": {
+                "name": "青葉山総合グラウンド",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "165",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "東北工業大学",
+                "address": "宮城県仙台市太白区鉤取字御堂平地内",
+                "latText": "N 38°14′39.4″",
+                "lonText": "E 140°49′28.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8245,
+                    38.243694
+                ]
+            },
+            "properties": {
+                "name": "青葉山野球場",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "165",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "東北工業大学",
+                "address": "宮城県仙台市太白区鈎取字御堂平37",
+                "latText": "N 38°14′37.3″",
+                "lonText": "E 140°49′28.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.721389,
+                    38.305389
+                ]
+            },
+            "properties": {
+                "name": "芋沢",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "291.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "有限会社スカイライフ",
+                "address": "宮城県仙台市青葉区芋沢畑前北１０",
+                "latText": "N 38°18′19.4″",
+                "lonText": "E 140°43′17.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.803194,
+                    37.969778
+                ]
+            },
+            "properties": {
+                "name": "角田中央公園",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "12.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "角田市役所",
+                "address": "宮城県角田市枝野青木155-31",
+                "latText": "N 37°58′11.2″",
+                "lonText": "E 140°48′11.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.956,
+                    38.863889
+                ]
+            },
+            "properties": {
+                "name": "栗駒ジオパーク",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "68.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "栗原市役所",
+                "address": "宮城県栗原市栗駒松倉東貴船5番地",
+                "latText": "N 38°51′50.0″",
+                "lonText": "E 140°57′21.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.529778,
+                    38.128278
+                ]
+            },
+            "properties": {
+                "name": "蔵王えぼし",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "686",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "宮城蔵王観光株式会社",
+                "address": "宮城県刈田郡蔵王町遠刈田温泉",
+                "latText": "N 38°07′41.8″",
+                "lonText": "E 140°31′47.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.779083,
+                    38.140278
+                ]
+            },
+            "properties": {
+                "name": "ＳＵＧＯレスキュー",
+                "prefecture": "miyagi",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "257.2",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社SUGO",
+                "address": "宮城県柴田郡村田町菅生6-1",
+                "latText": "N 38°08′25.0″",
+                "lonText": "E 140°46′44.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.021694,
+                    38.681389
+                ]
+            },
+            "properties": {
+                "name": "セミネ",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "52.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "東日本パイロット協会",
+                "address": "宮城県栗原市瀬峰藤沢字深沢２３２",
+                "latText": "N 38°40′53.0″",
+                "lonText": "E 141°01′18.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.779889,
+                    38.841
+                ]
+            },
+            "properties": {
+                "name": "花山温湯",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "236.5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "後藤榮喜",
+                "address": "宮城県栗原市花山字本沢切留",
+                "latText": "N 38°50′27.6″",
+                "lonText": "E 140°46′47.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.949583,
+                    38.339083
+                ]
+            },
+            "properties": {
+                "name": "利府グランディ",
+                "prefecture": "miyagi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "19.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "公益財団法人宮城県スポーツ協会",
+                "address": "宮城県宮城郡利府町菅谷字館40-1",
+                "latText": "N 38°20′20.7″",
+                "lonText": "E 140°56′58.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.083083,
+                    38.3015
+                ]
+            },
+            "properties": {
+                "name": "朝日",
+                "prefecture": "yamagata",
+                "sizeL": "16",
+                "sizeW": "14",
+                "elev": "240",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "朝日町",
+                "address": "山形県西村山郡朝日町大字立木地内立木河川公園",
+                "latText": "N 38°18′05.4″",
+                "lonText": "E 140°04′59.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.996194,
+                    38.240694
+                ]
+            },
+            "properties": {
+                "name": "猿渡",
+                "prefecture": "yamagata",
+                "sizeL": "13",
+                "sizeW": "13",
+                "elev": "540",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "山形県企業局",
+                "address": "山形県西村山郡朝日町大字立木丹後山１５０１‐４",
+                "latText": "N 38°14′26.5″",
+                "lonText": "E 139°59′46.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.852194,
+                    37.0815
+                ]
+            },
+            "properties": {
+                "name": "アルプスアルパインいわき",
+                "prefecture": "fukushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "57.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "アルプスアルパイン(株)いわき事務所",
+                "address": "福島県いわき市好間工業団地20-1",
+                "latText": "N 37°04′53.4″",
+                "lonText": "E 140°51′07.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.830194,
+                    36.941778
+                ]
+            },
+            "properties": {
+                "name": "セベバレステロスＧＣ",
+                "prefecture": "fukushima",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "65.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "セベバレステロスゴルフクラブ",
+                "address": "福島県いわき市泉町字滝の沢１２３-１セベバレステロスゴルフクラブ泉コース",
+                "latText": "N 36°56′30.4″",
+                "lonText": "E 140°49′48.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.010194,
+                    37.630389
+                ]
+            },
+            "properties": {
+                "name": "福島ＲＴＦ",
+                "prefecture": "fukushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "福島イノベーションコースト構想推進機構",
+                "address": "福島県南相馬市原町区萱浜字新赤沼９４-１",
+                "latText": "N 37°37′49.4″",
+                "lonText": "E 141°00′36.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.377083,
+                    37.012083
+                ]
+            },
+            "properties": {
+                "name": "ミニ尾瀬公園",
+                "prefecture": "fukushima",
+                "sizeL": "19",
+                "sizeW": "16",
+                "elev": "971",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "桧枝岐村役場",
+                "address": "福島県南会津郡檜枝岐村上ノ原",
+                "latText": "N 37°00′43.5″",
+                "lonText": "E 139°22′37.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.171083,
+                    36.885389
+                ]
+            },
+            "properties": {
+                "name": "赤倉観光リゾートスキー場",
+                "prefecture": "niigata",
+                "sizeL": "15",
+                "sizeW": "15",
+                "elev": "797.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "赤倉観光ホテル",
+                "address": "新潟県妙高市田切216",
+                "latText": "N 36°53′07.4″",
+                "lonText": "E 138°10′15.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.899389,
+                    36.943583
+                ]
+            },
+            "properties": {
+                "name": "シーサイドバレーP3",
+                "prefecture": "niigata",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "230.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社糸魚川シーサイドバレー",
+                "address": "新潟県糸魚川市山口151",
+                "latText": "N 36°56′36.9″",
+                "lonText": "E 137°53′57.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.883889,
+                    37.454778
+                ]
+            },
+            "properties": {
+                "name": "花子",
+                "prefecture": "niigata",
+                "sizeL": "13",
+                "sizeW": "11",
+                "elev": "20.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "（有）カツミ商会",
+                "address": "新潟県長岡市川崎町字花子１７０２－１",
+                "latText": "N 37°27′17.2″",
+                "lonText": "E 138°53′02.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.327389,
+                    38.059694
+                ]
+            },
+            "properties": {
+                "name": "村松浜",
+                "prefecture": "niigata",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "胎内市役所",
+                "address": "新潟県胎内市村松浜",
+                "latText": "N 38°03′34.9″",
+                "lonText": "E 139°19′38.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.188694,
+                    36.9945
+                ]
+            },
+            "properties": {
+                "name": "ロッテアライリゾートP4",
+                "prefecture": "niigata",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "284.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社LOTTE Hotel Arai",
+                "address": "新潟県妙高市両善寺1966",
+                "latText": "N 36°59′40.2″",
+                "lonText": "E 138°11′19.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.300083,
+                    36.598694
+                ]
+            },
+            "properties": {
+                "name": "アザレア健楽園",
+                "prefecture": "ibaraki",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "128.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "アザレア健楽園",
+                "address": "茨城県常陸大宮市小瀬沢８１４",
+                "latText": "N 36°35′55.3″",
+                "lonText": "E 140°18′00.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.512194,
+                    36.322194
+                ]
+            },
+            "properties": {
+                "name": "大洗サーキット",
+                "prefecture": "ibaraki",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "7.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "大洗サーキット",
+                "address": "茨城県水戸市森戸町６６８-１",
+                "latText": "N 36°19′19.9″",
+                "lonText": "E 140°30′43.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.437389,
+                    36.142
+                ]
+            },
+            "properties": {
+                "name": "霞ヶ浦ＣＣ",
+                "prefecture": "ibaraki",
+                "sizeL": "19",
+                "sizeW": "19",
+                "elev": "34.5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "霞ヶ浦カントリー倶楽部",
+                "address": "茨城県行方市芹沢１０００",
+                "latText": "N 36°08′31.2″",
+                "lonText": "E 140°26′14.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.607389,
+                    36.393778
+                ]
+            },
+            "properties": {
+                "name": "(国営)ひたち海浜公園(多目的広場)",
+                "prefecture": "ibaraki",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "30",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "国営常陸海浜公園事務所",
+                "address": "茨城県ひたちなか市馬渡字大沼６０５-４",
+                "latText": "N 36°23′37.6″",
+                "lonText": "E 140°36′26.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.408778,
+                    36.597694
+                ]
+            },
+            "properties": {
+                "name": "道の駅常陸大宮",
+                "prefecture": "ibaraki",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "33.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "元気な郷づくり株式会社",
+                "address": "茨城県常陸大宮市717-1",
+                "latText": "N 36°35′51.7″",
+                "lonText": "E 140°24′31.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.576889,
+                    36.099278
+                ]
+            },
+            "properties": {
+                "name": "ロイヤルGC",
+                "prefecture": "ibaraki",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "41.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ロイヤルGC",
+                "address": "茨城県鉾田市大蔵２００",
+                "latText": "N 36°05′57.4″",
+                "lonText": "E 140°34′36.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.335194,
+                    36.605889
+                ]
+            },
+            "properties": {
+                "name": "ロックヒルＧＣ",
+                "prefecture": "ibaraki",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "126",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ロックヒルゴルフクラブ",
+                "address": "茨城県常陸大宮市上小瀬５３７４-５",
+                "latText": "N 36°36′21.2″",
+                "lonText": "E 140°20′06.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.005278,
+                    36.763889
+                ]
+            },
+            "properties": {
+                "name": "HRC Sakura",
+                "prefecture": "tochigi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "201.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社ホンダレーシング",
+                "address": "栃木県さくら市下河戸地内",
+                "latText": "N 36°45′50.0″",
+                "lonText": "E 140°00′19.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.228583,
+                    36.520694
+                ]
+            },
+            "properties": {
+                "name": "ツインリンクもてぎ南",
+                "prefecture": "tochigi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "185.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社モビリティランド",
+                "address": "栃木県芳賀郡茂木町桧山120－1",
+                "latText": "N 36°31′14.5″",
+                "lonText": "E 140°13′42.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.695778,
+                    36.789694
+                ]
+            },
+            "properties": {
+                "name": "日光江戸村",
+                "prefecture": "tochigi",
+                "sizeL": "19",
+                "sizeW": "19",
+                "elev": "347.8",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "江戸ワンダーランド",
+                "address": "栃木県日光市柄倉470-2",
+                "latText": "N 36°47′22.9″",
+                "lonText": "E 139°41′44.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.608889,
+                    36.762389
+                ]
+            },
+            "properties": {
+                "name": "日光霧降スケートセンター第２駐車場",
+                "prefecture": "tochigi",
+                "sizeL": "19",
+                "sizeW": "16",
+                "elev": "670",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "日光市役所",
+                "address": "栃木県日光市所野２８５４",
+                "latText": "N 36°45′44.6″",
+                "lonText": "E 139°36′32.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.504694,
+                    36.743389
+                ]
+            },
+            "properties": {
+                "name": "日光中宮祠",
+                "prefecture": "tochigi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1290.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "東武鉄道",
+                "address": "栃木県日光市中宮祠",
+                "latText": "N 36°44′36.2″",
+                "lonText": "E 139°30′16.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.24,
+                    36.850083
+                ]
+            },
+            "properties": {
+                "name": "尾瀬戸倉スキー場",
+                "prefecture": "gunma",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1090",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "（財）尾瀬勤労者休暇センター",
+                "address": "群馬県利根郡片品村牛首６１林班八１",
+                "latText": "N 36°51′00.3″",
+                "lonText": "E 139°14′24.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.585389,
+                    36.473083
+                ]
+            },
+            "properties": {
+                "name": "北軽井沢ふれあい広場",
+                "prefecture": "gunma",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1064",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "長野原町役場",
+                "address": "群馬県吾妻郡長野原町北軽井沢1990-5372",
+                "latText": "N 36°28′23.1″",
+                "lonText": "E 138°35′07.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.089083,
+                    36.232583
+                ]
+            },
+            "properties": {
+                "name": "堀越二郎記念飛行場",
+                "prefecture": "gunma",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "86.5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "堀越二郎ヒコーキの会",
+                "address": "群馬県藤岡市小林905-1",
+                "latText": "N 36°13′57.3″",
+                "lonText": "E 139°05′20.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.721083,
+                    35.902889
+                ]
+            },
+            "properties": {
+                "name": "埼玉スタジアム東",
+                "prefecture": "saitama",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "埼玉県土木整備事務所",
+                "address": "埼玉県さいたま市緑区美園2丁目地内",
+                "latText": "N 35°54′10.4″",
+                "lonText": "E 139°43′15.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5375,
+                    36.144694
+                ]
+            },
+            "properties": {
+                "name": "羽生",
+                "prefecture": "saitama",
+                "sizeL": "13.54",
+                "sizeW": "13.54",
+                "elev": "16.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "イオンモール株式会社",
+                "address": "埼玉県羽生市川崎2-281-3",
+                "latText": "N 36°08′40.9″",
+                "lonText": "E 139°32′15.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.055583,
+                    35.880389
+                ]
+            },
+            "properties": {
+                "name": "ＮＥＣ我孫子グラウンド",
+                "prefecture": "chiba",
+                "sizeL": "18",
+                "sizeW": "14",
+                "elev": "6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ＮＥＣファシリティーズ株式会社",
+                "address": "千葉県我孫子市日の出１１３１",
+                "latText": "N 35°52′49.4″",
+                "lonText": "E 140°03′20.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.206889,
+                    35.471
+                ]
+            },
+            "properties": {
+                "name": "長柄ＬＷＳ",
+                "prefecture": "chiba",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "104.2",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ロングウッドステーション",
+                "address": "千葉県長生郡長柄町山之郷６７-１",
+                "latText": "N 35°28′15.6″",
+                "lonText": "E 140°12′24.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.883889,
+                    35.905278
+                ]
+            },
+            "properties": {
+                "name": "流山",
+                "prefecture": "chiba",
+                "sizeL": "14",
+                "sizeW": "14",
+                "elev": "4.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社Ｓ&Ｒコーポレーション",
+                "address": "千葉県流山市深井新田３９２",
+                "latText": "N 35°54′19.0″",
+                "lonText": "E 139°53′02.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.121889,
+                    35.382778
+                ]
+            },
+            "properties": {
+                "name": "皆吉台Ｃ.Ｃ",
+                "prefecture": "chiba",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "132",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ロッテ皆吉台カントリー倶楽部",
+                "address": "千葉県市原市皆吉１６２７-１",
+                "latText": "N 35°22′58.0″",
+                "lonText": "E 140°07′18.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.760389,
+                    32.467778
+                ]
+            },
+            "properties": {
+                "name": "青ヶ島",
+                "prefecture": "tokyo",
+                "sizeL": "19",
+                "sizeW": "16",
+                "elev": "274",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "青ヶ島村役場",
+                "address": "東京都青ヶ島村地内",
+                "latText": "N 32°28′04.0″",
+                "lonText": "E 139°45′37.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.126778,
+                    34.198889
+                ]
+            },
+            "properties": {
+                "name": "神津島",
+                "prefecture": "tokyo",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "112.2",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "神津島役場",
+                "address": "東京都神津島村字鴎穴１５７番地",
+                "latText": "N 34°11′56.0″",
+                "lonText": "E 139°07′36.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2095,
+                    34.334278
+                ]
+            },
+            "properties": {
+                "name": "式根島",
+                "prefecture": "tokyo",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "35",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "新島村役場",
+                "address": "東京都新島村式根島９１０",
+                "latText": "N 34°20′03.4″",
+                "lonText": "E 139°12′34.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.273389,
+                    34.530778
+                ]
+            },
+            "properties": {
+                "name": "利島",
+                "prefecture": "tokyo",
+                "sizeL": "28",
+                "sizeW": "24",
+                "elev": "30",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "利島村役場",
+                "address": "東京都利島村１７２０番地",
+                "latText": "N 34°31′50.8″",
+                "lonText": "E 139°16′24.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.594889,
+                    33.897889
+                ]
+            },
+            "properties": {
+                "name": "御蔵島",
+                "prefecture": "tokyo",
+                "sizeL": "20",
+                "sizeW": "18",
+                "elev": "127",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "御蔵島村役場",
+                "address": "東京都御蔵島村字入かねが沢",
+                "latText": "N 33°53′52.4″",
+                "lonText": "E 139°35′41.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.261,
+                    35.547889
+                ]
+            },
+            "properties": {
+                "name": "愛川半原",
+                "prefecture": "kanagawa",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "180",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "服部牧場",
+                "address": "神奈川県愛甲郡愛川町半原６０８７",
+                "latText": "N 35°32′52.4″",
+                "lonText": "E 139°15′39.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.182694,
+                    35.337889
+                ]
+            },
+            "properties": {
+                "name": "赤田",
+                "prefecture": "kanagawa",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "165.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "有限会社赤田ヘリポート",
+                "address": "神奈川県足柄上郡大井町赤田字小田原久保８３９",
+                "latText": "N 35°20′16.4″",
+                "lonText": "E 139°10′57.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.238778,
+                    35.586694
+                ]
+            },
+            "properties": {
+                "name": "津久井湖ゴルフ倶楽部",
+                "prefecture": "kanagawa",
+                "sizeL": "19",
+                "sizeW": "16",
+                "elev": "223.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "津久井湖観光（㈱",
+                "address": "神奈川県相模原市緑区中野字西大沢1965番24,字菅ノ沢2011番5の一部",
+                "latText": "N 35°35′12.1″",
+                "lonText": "E 139°14′19.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.027778,
+                    35.211083
+                ]
+            },
+            "properties": {
+                "name": "箱根園ゴルフ場",
+                "prefecture": "kanagawa",
+                "sizeL": "19",
+                "sizeW": "19",
+                "elev": "884.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ザ・プリンス箱根",
+                "address": "神奈川県足柄下郡箱根町元箱根１３８",
+                "latText": "N 35°12′39.9″",
+                "lonText": "E 139°01′40.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.165278,
+                    35.325278
+                ]
+            },
+            "properties": {
+                "name": "ビオトピア",
+                "prefecture": "kanagawa",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "86.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社ブルックスホールディングス",
+                "address": "神奈川県足柄上郡大井町山田８８５",
+                "latText": "N 35°19′31.0″",
+                "lonText": "E 139°09′55.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.131583,
+                    35.204889
+                ]
+            },
+            "properties": {
+                "name": "ヒルトン小田原",
+                "prefecture": "kanagawa",
+                "sizeL": "17",
+                "sizeW": "17",
+                "elev": "180.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ヒルトン小田原",
+                "address": "神奈川県小田原市根府川５８３-１",
+                "latText": "N 35°12′17.6″",
+                "lonText": "E 139°07′53.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6375,
+                    35.463194
+                ]
+            },
+            "properties": {
+                "name": "みなとみらい",
+                "prefecture": "kanagawa",
+                "sizeL": "37",
+                "sizeW": "30",
+                "elev": "2.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "横浜市港湾局",
+                "address": "神奈川県横浜市西区みなとみらい１丁目",
+                "latText": "N 35°27′47.5″",
+                "lonText": "E 139°38′15.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.469583,
+                    35.551083
+                ]
+            },
+            "properties": {
+                "name": "青柳河川",
+                "prefecture": "yamanashi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "247",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "富士川町",
+                "address": "山梨県南巨摩郡富士川町青柳町3247番2",
+                "latText": "N 35°33′03.9″",
+                "lonText": "E 138°28′10.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.841583,
+                    35.465778
+                ]
+            },
+            "properties": {
+                "name": "忍野３",
+                "prefecture": "yamanashi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "931",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社Air X",
+                "address": "山梨県 南都留郡 忍野村 忍草 1666-56",
+                "latText": "N 35°27′56.8″",
+                "lonText": "E 138°50′29.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.590583,
+                    35.596194
+                ]
+            },
+            "properties": {
+                "name": "幸せの丘ありあんす駐車場",
+                "prefecture": "yamanashi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "300.2",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社ジャネット",
+                "address": "山梨県甲府市上曽根4011",
+                "latText": "N 35°35′46.3″",
+                "lonText": "E 138°35′26.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.644694,
+                    35.424
+                ]
+            },
+            "properties": {
+                "name": "富士ヶ嶺",
+                "prefecture": "yamanashi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1183.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "富士ドクタービレッジ管理㈱",
+                "address": "山梨県南都留郡富士河口湖町富士ヶ嶺２-１",
+                "latText": "N 35°25′26.4″",
+                "lonText": "E 138°38′40.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.723389,
+                    35.511694
+                ]
+            },
+            "properties": {
+                "name": "富士河口湖",
+                "prefecture": "yamanashi",
+                "sizeL": "13",
+                "sizeW": "13",
+                "elev": "835.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "(株)河口湖オルゴールの森",
+                "address": "山梨県南都留郡富士河口湖町",
+                "latText": "N 35°30′42.1″",
+                "lonText": "E 138°43′24.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.529389,
+                    35.860389
+                ]
+            },
+            "properties": {
+                "name": "御嶽スキー場 A-4区画駐車場",
+                "prefecture": "nagano",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1662.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社シン",
+                "address": "長野県木曽郡王滝村3162番",
+                "latText": "N 35°51′37.4″",
+                "lonText": "E 137°31′45.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.865889,
+                    36.4835
+                ]
+            },
+            "properties": {
+                "name": "信濃大町",
+                "prefecture": "nagano",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "692",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ツカサ工業㈱",
+                "address": "長野県大町市大字社字古市町巾５３４６－３",
+                "latText": "N 36°29′00.6″",
+                "lonText": "E 137°51′57.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.253778,
+                    36.098583
+                ]
+            },
+            "properties": {
+                "name": "しらかば2in1スキー場",
+                "prefecture": "nagano",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1565.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "しらかば高原株式会社",
+                "address": "長野県北佐久郡立科町芦田八ケ野八子ヶ峰2021-1",
+                "latText": "N 36°05′54.9″",
+                "lonText": "E 138°15′13.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.879,
+                    36.7635
+                ]
+            },
+            "properties": {
+                "name": "白馬アルプス",
+                "prefecture": "nagano",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "832.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "白馬アルプスホテル",
+                "address": "長野県北安曇郡小谷村千国",
+                "latText": "N 36°45′48.6″",
+                "lonText": "E 137°52′44.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.632278,
+                    36.299083
+                ]
+            },
+            "properties": {
+                "name": "プリンスホテル軽井沢",
+                "prefecture": "nagano",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1100.8",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱プリンスホテル",
+                "address": "長野県北佐久郡軽井沢町大字発地字馬越１４２３-１",
+                "latText": "N 36°17′56.7″",
+                "lonText": "E 138°37′56.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.530278,
+                    35.928389
+                ]
+            },
+            "properties": {
+                "name": "マイアスキー場南",
+                "prefecture": "nagano",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "1552.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "豊実精工株式会社",
+                "address": "長野県木曽郡木曽町開田高原西野5346-1",
+                "latText": "N 35°55′42.2″",
+                "lonText": "E 137°31′49.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.995278,
+                    35.196
+                ]
+            },
+            "properties": {
+                "name": "芦ノ湖",
+                "prefecture": "shizuoka",
+                "sizeL": "19",
+                "sizeW": "16",
+                "elev": "980",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "藤田観光株式会社",
+                "address": "静岡県裾野市茶畑大沢2250-1",
+                "latText": "N 35°11′45.6″",
+                "lonText": "E 138°59′43.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.142,
+                    34.939694
+                ]
+            },
+            "properties": {
+                "name": "川奈ホテル",
+                "prefecture": "shizuoka",
+                "sizeL": "13",
+                "sizeW": "13",
+                "elev": "77.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱川奈ホテル",
+                "address": "静岡県伊東市川奈１４５９",
+                "latText": "N 34°56′22.9″",
+                "lonText": "E 139°08′31.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8575,
+                    35.369278
+                ]
+            },
+            "properties": {
+                "name": "GORA KADAN FUJI HELIPORT",
+                "prefecture": "shizuoka",
+                "sizeL": "18",
+                "sizeW": "15",
+                "elev": "849",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "日本中央開発(株)",
+                "address": "静岡県駿東郡小山町須走121",
+                "latText": "N 35°22′09.4″",
+                "lonText": "E 138°51′27″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.908194,
+                    35.2755
+                ]
+            },
+            "properties": {
+                "name": "神場水上",
+                "prefecture": "shizuoka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "433",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "矢崎ビジネスサポート（株）",
+                "address": "静岡県御殿場市神場水上４３９",
+                "latText": "N 35°16′31.8″",
+                "lonText": "E 138°54′29.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.810889,
+                    35.264694
+                ]
+            },
+            "properties": {
+                "name": "裾野",
+                "prefecture": "shizuoka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "866",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "裾野市役所",
+                "address": "静岡県裾野市須山",
+                "latText": "N 35°15′52.9″",
+                "lonText": "E 138°48′39.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.806389,
+                    34.91
+                ]
+            },
+            "properties": {
+                "name": "土肥町",
+                "prefecture": "shizuoka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "190",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "伊豆市役所",
+                "address": "静岡県伊豆市土肥３４９８-２１",
+                "latText": "N 34°54′36.0″",
+                "lonText": "E 138°48′23.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.901389,
+                    34.975278
+                ]
+            },
+            "properties": {
+                "name": "虹の郷",
+                "prefecture": "shizuoka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "309.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "伊豆市役所",
+                "address": "静岡県伊豆市修善寺４２７９-３",
+                "latText": "N 34°58′31.0″",
+                "lonText": "E 138°54′05.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.465,
+                    34.981889
+                ]
+            },
+            "properties": {
+                "name": "日本平ホテル",
+                "prefecture": "shizuoka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "225",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "日本平ホテル",
+                "address": "静岡県静岡市清水区馬走１５００－２",
+                "latText": "N 34°58′54.8″",
+                "lonText": "E 138°27′54.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.168889,
+                    35.04
+                ]
+            },
+            "properties": {
+                "name": "初島",
+                "prefecture": "shizuoka",
+                "sizeL": "16",
+                "sizeW": "14",
+                "elev": "35.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "初島クラブリゾートトラスト",
+                "address": "静岡県熱海市初島字家越７３－１",
+                "latText": "N 35°02′24.0″",
+                "lonText": "E 139°10′08.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.929,
+                    35.378083
+                ]
+            },
+            "properties": {
+                "name": "富士スピードウェイ",
+                "prefecture": "shizuoka",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "623.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "富士スピードウェイ(株)",
+                "address": "静岡県駿東郡小山町中日向６９４",
+                "latText": "N 35°22′41.1″",
+                "lonText": "E 138°55′44.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.537778,
+                    36.8755
+                ]
+            },
+            "properties": {
+                "name": "富山ビバレッジ",
+                "prefecture": "toyama",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "106",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱富山ビバレッジ",
+                "address": "富山県下新川郡入善町墓ノ木５７９-１",
+                "latText": "N 36°52′31.8″",
+                "lonText": "E 137°32′16.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.939778,
+                    36.442194
+                ]
+            },
+            "properties": {
+                "name": "小来栖",
+                "prefecture": "toyama",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "613",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社上智",
+                "address": "富山県南砺市小来栖地内",
+                "latText": "N 36°26′31.9″",
+                "lonText": "E 136°56′23.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.990778,
+                    36.590778
+                ]
+            },
+            "properties": {
+                "name": "弁財天",
+                "prefecture": "toyama",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "87.8",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "砺波市",
+                "address": "富山県砺波市庄川町青島",
+                "latText": "N 36°35′26.8″",
+                "lonText": "E 136°59′26.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.431,
+                    36.576694
+                ]
+            },
+            "properties": {
+                "name": "らいちょうバレー",
+                "prefecture": "toyama",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "557",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "大山観光開発株式会社",
+                "address": "富山県富山市本宮地内",
+                "latText": "N 36°34′36.1″",
+                "lonText": "E 137°25′51.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.0065,
+                    37.227
+                ]
+            },
+            "properties": {
+                "name": "能登牧場",
+                "prefecture": "ishikawa",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "82",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "萩谷畜産株式会社",
+                "address": "石川県鳳珠郡穴水町鹿波９５?６",
+                "latText": "N 37°13′37.2″",
+                "lonText": "E 137°00′23.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.346,
+                    36.095389
+                ]
+            },
+            "properties": {
+                "name": "永平寺町河川敷",
+                "prefecture": "fukui",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "40.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "福井河川国道事務所",
+                "address": "福井県吉田郡永平寺町下浄法寺",
+                "latText": "N 36°05′43.4″",
+                "lonText": "E 136°20′45.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.464083,
+                    35.317083
+                ]
+            },
+            "properties": {
+                "name": "アドニス",
+                "prefecture": "gifu",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "761.5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "プラスアルファ株式会社",
+                "address": "岐阜県恵那市上矢作町漆原572-210アドニスゴルフクラブ",
+                "latText": "N 35°19′01.5″",
+                "lonText": "E 137°27′50.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.868389,
+                    35.883
+                ]
+            },
+            "properties": {
+                "name": "郡上市合併記念公園",
+                "prefecture": "gifu",
+                "sizeL": "18",
+                "sizeW": "15",
+                "elev": "450",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "郡上市役所",
+                "address": "岐阜県郡上市白鳥町為真７６０－５郡上市合併記念公園内",
+                "latText": "N 35°52′58.8″",
+                "lonText": "E 136°52′06.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.982194,
+                    35.4395
+                ]
+            },
+            "properties": {
+                "name": "坂祝",
+                "prefecture": "gifu",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "87",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "坂祝町役場",
+                "address": "岐阜県賀茂郡坂祝町黒岩１２６０-１",
+                "latText": "N 35°26′22.2″",
+                "lonText": "E 136°58′55.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.904278,
+                    36.187278
+                ]
+            },
+            "properties": {
+                "name": "白弓スキー場",
+                "prefecture": "gifu",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "652.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "白川村役場",
+                "address": "岐阜県大野郡白川村木谷",
+                "latText": "N 36°11′14.2″",
+                "lonText": "E 136°54′15.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.047083,
+                    35.942083
+                ]
+            },
+            "properties": {
+                "name": "めいほうスキー場駐車場",
+                "prefecture": "gifu",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "880.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "めいほう高原開発株式会社",
+                "address": "岐阜県郡上市明宝奥住水沢上地内",
+                "latText": "N 35°56′31.5″",
+                "lonText": "E 137°02′49.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8805,
+                    35.999583
+                ]
+            },
+            "properties": {
+                "name": "高鷲",
+                "prefecture": "gifu",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "956.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "高鷲スノーパーク",
+                "address": "岐阜県郡上市高鷲町西洞３０８６-１",
+                "latText": "N 35°59′58.5″",
+                "lonText": "E 136°52′49.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.253583,
+                    35.797583
+                ]
+            },
+            "properties": {
+                "name": "下呂",
+                "prefecture": "gifu",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "354.1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "下呂市役所",
+                "address": "岐阜県下呂市小川字溝添81-1",
+                "latText": "N 35°47′51.3″",
+                "lonText": "E 137°15′12.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.146389,
+                    34.945278
+                ]
+            },
+            "properties": {
+                "name": "岡崎滑空場",
+                "prefecture": "aichi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "16",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "岡崎市役所",
+                "address": "愛知県岡崎市八帖南町琉球島地内",
+                "latText": "N 34°56′43.0″",
+                "lonText": "E 137°08′47.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.169194,
+                    35.096889
+                ]
+            },
+            "properties": {
+                "name": "川田公園",
+                "prefecture": "aichi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "36.9",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "豊田市役所",
+                "address": "愛知県豊田市寺部町１丁目３６（川田公園内）",
+                "latText": "N 35°05′48.8″",
+                "lonText": "E 137°10′09.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.274778,
+                    34.807194
+                ]
+            },
+            "properties": {
+                "name": "ラグナマリーナ",
+                "prefecture": "aichi",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱ラグナマリーナ",
+                "address": "愛知県蒲郡市海陽町２-１",
+                "latText": "N 34°48′25.9″",
+                "lonText": "E 137°16′29.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.792,
+                    34.298583
+                ]
+            },
+            "properties": {
+                "name": "アマネム",
+                "prefecture": "mie",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "30.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "志摩リゾートマネージメント",
+                "address": "三重県志摩市浜島町迫子2165",
+                "latText": "N 34°17′54.9″",
+                "lonText": "E 136°47′31.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.672194,
+                    34.455083
+                ]
+            },
+            "properties": {
+                "name": "伊勢かぐらば",
+                "prefecture": "mie",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "65",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "伊勢かぐらばリゾート千の杜",
+                "address": "三重県伊勢市佐八町池の上1165-1",
+                "latText": "N 34°27′18.3″",
+                "lonText": "E 136°40′19.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.839389,
+                    34.348
+                ]
+            },
+            "properties": {
+                "name": "志摩スペイン村第３駐車場",
+                "prefecture": "mie",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "45",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱志摩スペイン村",
+                "address": "三重県志摩市磯部町坂崎(志摩スペイン村第３駐車場)",
+                "latText": "N 34°20′52.8″",
+                "lonText": "E 136°50′21.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.513194,
+                    34.457778
+                ]
+            },
+            "properties": {
+                "name": "多気",
+                "prefecture": "mie",
+                "sizeL": "",
+                "sizeW": "",
+                "elev": "113",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "VISON多気株式会社",
+                "address": "三重県多気郡多気町ヴィソン 672-1",
+                "latText": "N 34°27′28.0″",
+                "lonText": "E 136°30′47.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.361778,
+                    34.197389
+                ]
+            },
+            "properties": {
+                "name": "ホテル季の座",
+                "prefecture": "mie",
+                "sizeL": "17",
+                "sizeW": "17",
+                "elev": "7.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社サン・サービス",
+                "address": "三重県北牟婁郡紀北町東長島3043-4",
+                "latText": "N 34°11′50.6″",
+                "lonText": "E 136°21′42.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.817583,
+                    34.292889
+                ]
+            },
+            "properties": {
+                "name": "間崎島",
+                "prefecture": "mie",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "5.8",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "MS-NEXT 株式会社",
+                "address": "三重県志摩市志摩町和具4451",
+                "latText": "N 34°17′34.4″",
+                "lonText": "E 136°49′03.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.786278,
+                    34.258889
+                ]
+            },
+            "properties": {
+                "name": "三重志摩越賀中ヘリポート",
+                "prefecture": "mie",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "16.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "志摩市役所",
+                "address": "三重県志摩市志摩町越賀1877",
+                "latText": "N 34°15′32.0″",
+                "lonText": "E 136°47′10.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.0185,
+                    34.9265
+                ]
+            },
+            "properties": {
+                "name": "滋賀ミホミュージアム",
+                "prefecture": "shiga",
+                "sizeL": "15",
+                "sizeW": "15",
+                "elev": "267.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "神慈秀明会",
+                "address": "滋賀県大津市上田上大鳥居町354-1",
+                "latText": "N 34°55′35.4″",
+                "lonText": "E 136°01′06.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.281694,
+                    35.295889
+                ]
+            },
+            "properties": {
+                "name": "フジテック彦根",
+                "prefecture": "shiga",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "90",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "フジテック（株）",
+                "address": "滋賀県彦根市宮田町591-1",
+                "latText": "N 35°17′45.2″",
+                "lonText": "E 136°16′54.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.9595,
+                    34.037778
+                ]
+            },
+            "properties": {
+                "name": "池郷川グラウンド",
+                "prefecture": "nara",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "218",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "下北山村づくりセンター",
+                "address": "奈良県吉野郡下北山村上池原　地内",
+                "latText": "N 34°02′16.0″",
+                "lonText": "E 135°57′34.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.794778,
+                    34.172389
+                ]
+            },
+            "properties": {
+                "name": "高野辻",
+                "prefecture": "nara",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1100",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "五條市役所大塔支所",
+                "address": "奈良県五條市大塔町篠原地内",
+                "latText": "N 34°10′20.6″",
+                "lonText": "E 135°47′41.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.845694,
+                    34.261083
+                ]
+            },
+            "properties": {
+                "name": "天川笠木",
+                "prefecture": "nara",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "790",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "天川村役場",
+                "address": "奈良県吉野郡天川村地内",
+                "latText": "N 34°15′39.9″",
+                "lonText": "E 135°50′44.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1195,
+                    35.581389
+                ]
+            },
+            "properties": {
+                "name": "丹後大宮",
+                "prefecture": "kyoto",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "110",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "日本インパクト株式会社",
+                "address": "京都府京丹後市大宮町森本4501-1",
+                "latText": "N 35°34′53.0″",
+                "lonText": "E 135°07′10.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2055,
+                    35.586194
+                ]
+            },
+            "properties": {
+                "name": "宮津中野",
+                "prefecture": "kyoto",
+                "sizeL": "15",
+                "sizeW": "15",
+                "elev": "2.5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "（株）にしがき　マリントピアリゾート",
+                "address": "京都府宮津市大垣373-1",
+                "latText": "N 35°35′10.3″",
+                "lonText": "E 135°12′19.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.895583,
+                    33.648278
+                ]
+            },
+            "properties": {
+                "name": "日本ダイヤモンドゴルフ倶楽部",
+                "prefecture": "wakayama",
+                "sizeL": "17",
+                "sizeW": "17",
+                "elev": "250",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "日本ダイヤモンドゴルフ?楽部",
+                "address": "和歌山県東牟婁郡那智勝浦町南平野2478-1",
+                "latText": "N 33°38′53.8″",
+                "lonText": "E 135°53′44.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.485,
+                    33.7275
+                ]
+            },
+            "properties": {
+                "name": "水辺の楽校",
+                "prefecture": "wakayama",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "40",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "田辺市役所",
+                "address": "和歌山県田辺市鮎川",
+                "latText": "N 33°43′39.0″",
+                "lonText": "E 135°29′06.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.182889,
+                    34.152778
+                ]
+            },
+            "properties": {
+                "name": "和歌山マリーナ",
+                "prefecture": "wakayama",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "和歌山マリーナシティホテル",
+                "address": "和歌山県和歌山市毛見地内",
+                "latText": "N 34°09′10.0″",
+                "lonText": "E 135°10′58.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.426278,
+                    34.672
+                ]
+            },
+            "properties": {
+                "name": "北港",
+                "prefecture": "osaka",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "1.5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "オリックス（法人営業部）",
+                "address": "大阪府大阪市此花区北港1-4",
+                "latText": "N 34°40′19.2″",
+                "lonText": "E 135°25′34.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.005778,
+                    34.5615
+                ]
+            },
+            "properties": {
+                "name": "淡路夢舞台",
+                "prefecture": "hyogo",
+                "sizeL": "35",
+                "sizeW": "30",
+                "elev": "100.3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "（株）夢舞台　会議支援課",
+                "address": "兵庫県淡路市楠本地内",
+                "latText": "N 34°33′41.4″",
+                "lonText": "E 135°00′20.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.219389,
+                    34.911
+                ]
+            },
+            "properties": {
+                "name": "岡山国際サーキット",
+                "prefecture": "okayama",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "270",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "㈱岡山国際サーキット",
+                "address": "岡山県美作市滝宮１２１０",
+                "latText": "N 34°54′39.6″",
+                "lonText": "E 134°13′09.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.955,
+                    34.493583
+                ]
+            },
+            "properties": {
+                "name": "岡山たまの湯",
+                "prefecture": "okayama",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "2.7",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "宇野港土地㈱",
+                "address": "岡山県玉野市築港1-1-10",
+                "latText": "N 34°29′36.9″",
+                "lonText": "E 133°57′18.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.266778,
+                    34.434194
+                ]
+            },
+            "properties": {
+                "name": "松永",
+                "prefecture": "hiroshima",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "1",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "松永漁業協同組合",
+                "address": "広島県福山市柳津町無番地",
+                "latText": "N 34°26′03.1″",
+                "lonText": "E 133°16′00.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.302083,
+                    34.419278
+                ]
+            },
+            "properties": {
+                "name": "みろくの里駐車場",
+                "prefecture": "hiroshima",
+                "sizeL": "13",
+                "sizeW": "13",
+                "elev": "80",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ツネイシホールディングス",
+                "address": "広島県福山市沼隈町藤江町杖迫637",
+                "latText": "N 34°25′09.4″",
+                "lonText": "E 133°18′07.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.314583,
+                    34.472278
+                ]
+            },
+            "properties": {
+                "name": "内海",
+                "prefecture": "kagawa",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "小豆島町",
+                "address": "香川県小豆郡小豆島町馬木４８－２７",
+                "latText": "N 34°28′20.2″",
+                "lonText": "E 134°18′52.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.222083,
+                    34.518278
+                ]
+            },
+            "properties": {
+                "name": "オリビアン芝生広場",
+                "prefecture": "kagawa",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "188",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "オリビアン小豆島夕陽ヶ丘ホテル",
+                "address": "香川県小豆郡土庄町屋形崎甲６３番地１",
+                "latText": "N 34°31′05.8″",
+                "lonText": "E 134°13′19.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.983389,
+                    34.446694
+                ]
+            },
+            "properties": {
+                "name": "直島ベネッセ",
+                "prefecture": "kagawa",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "2",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "（株）直島文化村",
+                "address": "香川県香川郡直島町琴弾地",
+                "latText": "N 34°26′48.1″",
+                "lonText": "E 133°59′00.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0475,
+                    34.476083
+                ]
+            },
+            "properties": {
+                "name": "みこがはま",
+                "prefecture": "kagawa",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社アミューズ",
+                "address": "香川県小豆郡土庄町豊島家浦3375",
+                "latText": "N 34°28′33.9″",
+                "lonText": "E 134°02′51.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.314583,
+                    34.472278
+                ]
+            },
+            "properties": {
+                "name": "やすらぎの塔",
+                "prefecture": "kagawa",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "5.6",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "小豆島町",
+                "address": "香川県小豆郡小豆島町馬木４８-２７",
+                "latText": "N 34°28′20.2″",
+                "lonText": "E 134°18′52.5″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.456694,
+                    34.027778
+                ]
+            },
+            "properties": {
+                "name": "サンピアゴルフクラブ",
+                "prefecture": "tokushima",
+                "sizeL": "19",
+                "sizeW": "16",
+                "elev": "125",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "サンピア",
+                "address": "徳島県徳島市入田町安都真２１５-１",
+                "latText": "N 34°01′40.0″",
+                "lonText": "E 134°27′24.1″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.002583,
+                    34.0405
+                ]
+            },
+            "properties": {
+                "name": "四国三郎の郷",
+                "prefecture": "tokushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "58",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "アメンボ",
+                "address": "徳島県美馬市美馬町境目",
+                "latText": "N 34°02′25.8″",
+                "lonText": "E 134°00′09.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.442278,
+                    34.1495
+                ]
+            },
+            "properties": {
+                "name": "徳島県立あすたむらんど",
+                "prefecture": "tokushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "94",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "ネオビエント",
+                "address": "徳島県板野郡板野町那東字キビガ谷４５-２２",
+                "latText": "N 34°08′58.2″",
+                "lonText": "E 134°26′32.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.137778,
+                    33.901389
+                ]
+            },
+            "properties": {
+                "name": "中尾山高原",
+                "prefecture": "tokushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "1017",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "美馬市",
+                "address": "徳島県美馬市木屋平字太合カケ４４５-６",
+                "latText": "N 33°54′05.0″",
+                "lonText": "E 134°08′16.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.979,
+                    33.869694
+                ]
+            },
+            "properties": {
+                "name": "東祖谷旅行村",
+                "prefecture": "tokushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "779",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "癒しの温泉郷",
+                "address": "徳島県三好市東祖谷菅生２８",
+                "latText": "N 33°52′10.9″",
+                "lonText": "E 133°58′44.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.372,
+                    33.619278
+                ]
+            },
+            "properties": {
+                "name": "蛇王運動公園",
+                "prefecture": "tokushima",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "15",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "海部下灘観光協会",
+                "address": "徳島県海部郡海陽町浅川字西福良４３",
+                "latText": "N 33°37′09.4″",
+                "lonText": "E 134°22′19.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.653389,
+                    33.768778
+                ]
+            },
+            "properties": {
+                "name": "大豊川口南",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "336",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "大豊町役場",
+                "address": "高知県長岡郡大豊町津家",
+                "latText": "N 33°46′07.6″",
+                "lonText": "E 133°39′12.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.758778,
+                    33.7975
+                ]
+            },
+            "properties": {
+                "name": "おおとよ土居",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "198",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "大豊町役場",
+                "address": "高知県長岡郡大豊町東土居１７０-１",
+                "latText": "N 33°47′51.0″",
+                "lonText": "E 133°45′31.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.791583,
+                    33.539889
+                ]
+            },
+            "properties": {
+                "name": "黒潮カントリークラブ",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "150",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "黒潮観光開発（株）",
+                "address": "高知県安芸郡芸西村西分甲5207",
+                "latText": "N 33°32′23.6″",
+                "lonText": "E 133°47′29.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.168583,
+                    33.205
+                ]
+            },
+            "properties": {
+                "name": "スカイヒル",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "283",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "四国航空株式会社",
+                "address": "高知県高岡郡四万十町見付字萩野々１７４８-１",
+                "latText": "N 33°12′18.0″",
+                "lonText": "E 133°10′06.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.780778,
+                    32.967778
+                ]
+            },
+            "properties": {
+                "name": "宿毛市総合運動公園",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "33",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "宿毛市役所",
+                "address": "高知県宿毛市山奈町芳奈４０２４",
+                "latText": "N 32°58′04.0″",
+                "lonText": "E 132°46′50.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.309389,
+                    33.502778
+                ]
+            },
+            "properties": {
+                "name": "スポーツパークさかわ",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "104",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "佐川町教育委員会",
+                "address": "高知県高岡郡佐川町甲２３８-１",
+                "latText": "N 33°30′10.0″",
+                "lonText": "E 133°18′33.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.959889,
+                    32.790278
+                ]
+            },
+            "properties": {
+                "name": "土佐清水総合公園(体育館前)",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "60",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "土佐清水市役所",
+                "address": "高知県土佐清水市清水字笹原谷８５３-２４",
+                "latText": "N 32°47′25.0″",
+                "lonText": "E 132°57′35.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.684,
+                    33.57
+                ]
+            },
+            "properties": {
+                "name": "野市町サッカーグランド",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "14",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "香南市教育委員会",
+                "address": "高知県香南市野市町深渕910",
+                "latText": "N 33°34′12.0″",
+                "lonText": "E 133°41′02.4″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.158278,
+                    33.2865
+                ]
+            },
+            "properties": {
+                "name": "室戸中央公園",
+                "prefecture": "kochi",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "84",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "室戸市役所",
+                "address": "高知県室戸市室戸岬町６８１１",
+                "latText": "N 33°17′11.4″",
+                "lonText": "E 134°09′29.8″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.326083,
+                    33.480778
+                ]
+            },
+            "properties": {
+                "name": "伊方町民グランド",
+                "prefecture": "ehime",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "100",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "伊方町教育委員会",
+                "address": "愛媛県西宇和郡伊方町川永田４３",
+                "latText": "N 33°28′50.8″",
+                "lonText": "E 132°19′33.9″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.5635,
+                    33.950389
+                ]
+            },
+            "properties": {
+                "name": "翠波臨時ヘリポート",
+                "prefecture": "ehime",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "787",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "四国中央市役所",
+                "address": "愛媛県四国中央市中曽根町乙３８０",
+                "latText": "N 33°57′01.4″",
+                "lonText": "E 133°33′48.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.973778,
+                    33.041278
+                ]
+            },
+            "properties": {
+                "name": "オートポリス4",
+                "prefecture": "oita",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "875",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "株式会社オートポリス",
+                "address": "大分県日田市上津江町上野田１１１２-８",
+                "latText": "N 33°02′28.6″",
+                "lonText": "E 130°58′25.6″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.281194,
+                    32.958194
+                ]
+            },
+            "properties": {
+                "name": "介護ひまわり大分",
+                "prefecture": "oita",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "547",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "訪問介護ひまわり",
+                "address": "大分県竹田市大字菅生字木ノ上１１６９-２",
+                "latText": "N 32°57′29.5″",
+                "lonText": "E 131°16′52.3″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.936583,
+                    33.042583
+                ]
+            },
+            "properties": {
+                "name": "長崎部品",
+                "prefecture": "nagasaki",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "173.4",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "長崎部品株式会社",
+                "address": "長崎県東彼杵町三根郷字東舞山２８６-５",
+                "latText": "N 33°02′33.3″",
+                "lonText": "E 129°56′11.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.8025,
+                    32.902194
+                ]
+            },
+            "properties": {
+                "name": "パサージュ琴海",
+                "prefecture": "nagasaki",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "5",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "パサージュ琴海アイランドクラブ",
+                "address": "長崎県長崎市琴海戸根原町１７１",
+                "latText": "N 32°54′07.9″",
+                "lonText": "E 129°48′09.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.665278,
+                    32.483
+                ]
+            },
+            "properties": {
+                "name": "門川海浜公園",
+                "prefecture": "miyazaki",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "3",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "門川海浜総合公園管理事務所",
+                "address": "宮崎県門川町加草５-１",
+                "latText": "N 32°28′58.8″",
+                "lonText": "E 131°39′55.0″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.886583,
+                    31.331083
+                ]
+            },
+            "properties": {
+                "name": "鹿屋矢崎",
+                "prefecture": "kagoshima",
+                "sizeL": "18",
+                "sizeW": "18",
+                "elev": "36",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "鹿児島部品株式会社",
+                "address": "鹿児島県鹿屋市吾平町麓４２４５-２",
+                "latText": "N 31°19′51.9″",
+                "lonText": "E 130°53′11.7″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.902278,
+                    26.678389
+                ]
+            },
+            "properties": {
+                "name": "グリーンパーク",
+                "prefecture": "okinawa",
+                "sizeL": "16",
+                "sizeW": "16",
+                "elev": "145",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "本部グリーンパークゴルフ場",
+                "address": "沖縄県国頭郡本部町古島404",
+                "latText": "N 26°40′42.2″",
+                "lonText": "E 127°54′08.2″"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.8905,
+                    26.686389
+                ]
+            },
+            "properties": {
+                "name": "上本部飛行場",
+                "prefecture": "okinawa",
+                "sizeL": "20",
+                "sizeW": "20",
+                "elev": "44",
+                "type": "h",
+                "color": "red",
+                "iconKey": "h_red",
+                "owner": "本部町役場",
+                "address": "沖縄県国頭郡本部町豊原614",
+                "latText": "N 26°41′11.0″",
+                "lonText": "E 127°53′25.8″"
+            }
+        }
+    ]
+}

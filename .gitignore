@@ -1,0 +1,11 @@
+# 作業用ファイル（公開しない）
+構成作成作業用.pptx
+~$*.pptx
+*.tmp
+
+# ツール設定・履歴
+.claude/
+
+# OS が生成するファイル
+Thumbs.db
+.DS_Store

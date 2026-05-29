@@ -1,0 +1,362 @@
+* {
+  box-sizing: border-box;
+}
+
+/* hidden 属性は常に非表示にする（#app / #login-screen の display 指定より優先） */
+[hidden] {
+  display: none !important;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+}
+
+/* ---------- ① ログイン画面 ---------- */
+#login-screen {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  z-index: 1000;
+}
+
+#login-form {
+  background: #fff;
+  padding: 24px;
+  width: 460px;
+  max-width: calc(100vw - 32px);
+  display: flex;
+  flex-direction: column;
+}
+
+/* ロゴ + タイトルの横並びヘッダー */
+.login-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+
+.login-logo {
+  width: 190px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.login-titles {
+  display: flex;
+  flex-direction: column;
+}
+
+#login-form h1 {
+  margin: 0 0 8px;
+  font-size: 34px;
+  font-weight: 400;
+  color: #888;
+  letter-spacing: 1px;
+}
+
+#login-form .subtitle {
+  margin: 0;
+  color: #333;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.demo-label {
+  margin: 4px 0 22px;
+  text-align: center;
+  color: #f5a623;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+#login-form input {
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+#login-form input::placeholder {
+  color: #aaa;
+}
+
+#login-form input:focus {
+  outline: none;
+  border-color: #1769c4;
+  box-shadow: 0 0 0 2px rgba(23, 105, 196, 0.2);
+}
+
+#login-form button {
+  padding: 15px;
+  margin-top: 6px;
+  background: #1769c4;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+#login-form button:hover {
+  background: #125aa8;
+}
+
+.error {
+  color: #d32f2f;
+  font-size: 13px;
+  margin: 0 0 12px;
+  text-align: center;
+}
+
+.forgot-link {
+  display: block;
+  margin-top: 18px;
+  text-align: center;
+  color: #1769c4;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.forgot-link:hover {
+  text-decoration: underline;
+}
+
+/* ---------- ②③ マップ画面 ---------- */
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#topbar {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 16px;
+  background: #1e3c72;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+
+#topbar .title {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+#topbar .count {
+  font-size: 13px;
+  color: #cdd9ee;
+}
+
+#logout-btn {
+  margin-left: auto;
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+#logout-btn:hover {
+  background: rgba(255, 255, 255, 0.28);
+}
+
+#map {
+  flex: 1;
+  width: 100%;
+  position: relative;
+}
+
+/* ---------- ベースマップ切り替え ---------- */
+#basemap-switcher {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 5;
+  display: flex;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  font-size: 13px;
+}
+
+#basemap-switcher button {
+  border: none;
+  padding: 8px 14px;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+#basemap-switcher button + button {
+  border-left: 1px solid #ddd;
+}
+
+#basemap-switcher button.active {
+  background: #1769c4;
+  color: #fff;
+}
+
+/* ---------- 詳細モーダル ---------- */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.modal-card {
+  background: #fff;
+  border: 3px solid #1c4d6b;
+  border-radius: 16px;
+  overflow: hidden;
+  width: 840px;
+  max-width: 100%;
+  max-height: calc(100vh - 40px);
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+}
+
+.modal-header {
+  background: #1c4d6b;
+  color: #fff;
+  height: 52px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 18px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.modal-header #modal-title {
+  flex: 1;
+}
+
+.modal-close {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 26px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 4px;
+}
+
+.modal-close:hover {
+  opacity: 0.7;
+}
+
+.modal-body {
+  padding: 26px 30px 10px;
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 48px;
+  row-gap: 26px;
+}
+
+.info-section .section-title {
+  margin: 0 0 12px;
+  font-size: 19px;
+  font-weight: 400;
+  color: #9a9a9a;
+}
+
+.info-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.info-table th {
+  /* すべてのセクションでラベル幅をそろえ、値の左端を一致させる */
+  width: 130px;
+  text-align: left;
+  color: #333;
+  font-weight: 400;
+  padding: 4px 18px 4px 0;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+.info-table td {
+  color: #222;
+  padding: 4px 0;
+  vertical-align: top;
+  word-break: break-word;
+}
+
+/* ---------- モーダル下部のボタン ---------- */
+.modal-actions {
+  padding: 14px 30px 22px;
+  flex-shrink: 0;
+}
+
+.modal-actions-row {
+  display: flex;
+  gap: 28px;
+  margin-bottom: 14px;
+}
+
+.modal-actions-row .btn-secondary {
+  flex: 1;
+}
+
+.btn-secondary {
+  background: #9e9e9e;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background: #8a8a8a;
+}
+
+.btn-primary {
+  display: block;
+  width: 100%;
+  background: #f0a500;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 13px;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background: #d99500;
+}
+
+@media (max-width: 640px) {
+  .modal-body {
+    grid-template-columns: 1fr;
+    row-gap: 18px;
+  }
+}
