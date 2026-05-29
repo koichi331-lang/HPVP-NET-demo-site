@@ -3894,30 +3894,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.131583,
-                    35.204889
-                ]
-            },
-            "properties": {
-                "name": "ヒルトン小田原",
-                "prefecture": "kanagawa",
-                "sizeL": "17",
-                "sizeW": "17",
-                "elev": "180.3",
-                "type": "h",
-                "color": "red",
-                "iconKey": "h_red",
-                "owner": "ヒルトン小田原",
-                "address": "神奈川県小田原市根府川５８３-１",
-                "latText": "N 35°12′17.6″",
-                "lonText": "E 139°07′53.7″"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.6375,
                     35.463194
                 ]
