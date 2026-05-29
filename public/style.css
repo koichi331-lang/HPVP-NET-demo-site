@@ -167,8 +167,14 @@ html, body {
   color: #cdd9ee;
 }
 
-#logout-btn {
+/* 運営表記をログアウトボタンの左隣（右寄せ）に配置 */
+#topbar .topbar-operator {
   margin-left: auto;
+  font-size: 13px;
+  color: #cdd9ee;
+}
+
+#logout-btn {
   background: rgba(255, 255, 255, 0.15);
   color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.4);
